@@ -8,7 +8,9 @@ tags: python, 2articles1week, codenewbies, python-beginner
 
 ---
 
-Hey there, fellow Python enthusiasts! Welcome back to another installment of my Python Learning Journey. Today, we're diving into the world of Python modules and libraries. If you're like me, you love discovering new tools that make coding easier and more efficient.
+Hey there, fellow Python enthusiasts! Welcome back to another installment of my Python Learning Journey.
+
+Today, we're diving into the world of Python modules and libraries. If you're like me, you love discovering new tools that make coding easier and more efficient.
 
 Well, Python modules and libraries are exactly that—powerful tools that extend the capabilities of our code without having to reinvent the wheel.
 
@@ -116,6 +118,8 @@ print("Response Content:", response.json())
 
 And there you have it—a brief introduction to Python modules and libraries! Using modules and libraries not only makes your code more manageable but also unlocks a world of possibilities with pre-built tools and functionalities.
 
-As you continue your Python journey, don't hesitate to explore and experiment with different modules and libraries. The more you learn and practice, the more proficient you'll become.
+As you continue your Python journey, don't hesitate to explore and experiment with different modules and libraries.
+
+The more you learn and practice, the more proficient you'll become.
 
 Stay tuned for more exciting topics in my Python Learning Journey series. Happy coding!
