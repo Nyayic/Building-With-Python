@@ -8,7 +8,7 @@ tags: python, 2articles1week, codenewbies, python-beginner
 
 ---
 
-Hey there, fellow Python enthusiasts! Welcome back to another installment of my Python Learning Journey.
+Hey there, Python enthusiasts! Welcome back to another installment of my Python Learning Journey.
 
 Today, we're diving into the world of Python modules and libraries. If you're like me, you love discovering new tools that make coding easier and more efficient.
 
