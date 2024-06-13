@@ -3,6 +3,7 @@ title: "Debugging Tips for Beginners: How I Fix My Python Code"
 datePublished: Thu Jun 13 2024 05:22:32 GMT+0000 (Coordinated Universal Time)
 cuid: clxctck69000e09kz073s1v9l
 slug: debugging-tips-for-beginners-how-i-fix-my-python-code
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718256290976/4ac6797a-9762-4971-b219-54b1da14b2d4.png
 tags: python, 2articles1week, codenewbies, python-beginner
 
 ---
