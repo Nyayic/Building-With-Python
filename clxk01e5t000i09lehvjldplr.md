@@ -14,7 +14,9 @@ Being able to read from and write to files allows Python programs to persist dat
 
 ## Opening a File
 
-The first step in file handling is opening a file. Python provides a built-in `open()` function for this purpose. This function requires at least one argument: the name of the file you want to open.
+The first step in file handling is opening a file. Python provides a built-in `open()` function for this purpose.
+
+This function requires at least one argument: the name of the file you want to open.
 
 You can also specify the mode in which the file should be opened. The most common modes are:
 
