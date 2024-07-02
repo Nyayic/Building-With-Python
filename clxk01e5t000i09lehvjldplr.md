@@ -69,7 +69,7 @@ file.close()
 
 ### Using `readlines()`
 
-The `readlines()` method reads all lines of the file and returns them as a list of strings.
+The `readlines()` method reads all file lines and returns them as a list of strings.
 
 ```python
 file = open('example.txt', 'r')
@@ -106,7 +106,7 @@ file.close()
 
 ## Working with Context Managers
 
-While it’s possible to manually open and close files using the `open()` and `close()` methods, Python provides a more elegant way to handle files using context managers.
+While it’s possible to open and close files using the manually `open()` and `close()` methods, Python provides a more elegant way to handle files using context managers.
 
 The `with` statement ensures that the file is properly closed after its suite finishes, even if an exception is raised.
 
