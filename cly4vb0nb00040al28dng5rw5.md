@@ -14,7 +14,9 @@ From creating art and music to generating human-like text, generative AI is maki
 
 ### What is Generative AI?
 
-Generative AI refers to a category of artificial intelligence algorithms that generate new content. Unlike traditional AI, which focuses on recognizing patterns and making predictions based on existing data, generative AI creates new data.
+Generative AI refers to a category of artificial intelligence algorithms that generate new content.
+
+Unlike traditional AI, which focuses on recognizing patterns and making predictions based on existing data, generative AI creates new data.
 
 This could be in the form of text, images, music, or even entire virtual environments. The most popular examples of generative AI include GPT-4, DALL-E, and various deepfake technologies.
 
