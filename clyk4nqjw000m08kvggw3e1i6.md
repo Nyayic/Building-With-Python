@@ -80,7 +80,9 @@ This personalization enhances the listener's experience, making music consumptio
 
 Generative AI is not just a tool for independent creation; it also facilitates collaboration between humans and machines. Artists can work alongside AI systems, using them as creative partners to explore new ideas and techniques.
 
-For example, an artist might input a rough sketch into an AI tool, which then generates multiple variations and enhancements. The artist can then select and refine the most promising outputs, resulting in a collaborative piece that combines human intuition with AI precision.
+For example, an artist might input a rough sketch into an AI tool, which then generates multiple variations and enhancements.
+
+The artist can then select and refine the most promising outputs, resulting in a collaborative piece that combines human intuition with AI precision.
 
 This synergy can lead to innovative artworks that neither humans nor machines could create alone.
 
