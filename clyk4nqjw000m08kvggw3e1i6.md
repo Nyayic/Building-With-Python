@@ -88,7 +88,9 @@ This synergy can lead to innovative artworks that neither humans nor machines co
 
 **2\. Co-Creation in Music**
 
-Similarly, generative AI enables co-creation in music, allowing musicians to collaborate with AI systems to produce new compositions. AI tools can generate melodies, harmonies, and rhythms based on a musician's input, providing a starting point for further development.
+Similarly, generative AI enables co-creation in music, allowing musicians to collaborate with AI systems to produce new compositions.
+
+AI tools can generate melodies, harmonies, and rhythms based on a musician's input, providing a starting point for further development.
 
 This collaborative approach can spark creativity and inspire musicians to explore new musical directions.
 
