@@ -118,4 +118,4 @@ Generative AI is transforming the fields of art and music, offering new tools an
 
 As we continue to explore the potential of generative AI, it's crucial to address ethical concerns and ensure that this technology is used responsibly.
 
-I invite you to share your thoughts and experiences with generative AI in the comments below. How do you see generative AI shaping the future of art and music?
+I invite you to share your thoughts and experiences with generative AI in the comments below.
